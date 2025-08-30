@@ -49,3 +49,9 @@ Daily-ML-Projects/
 ├── README.md # Project documentation
 
 ---
+
+---
+
+## 🤖 About Me  
+I am currently practicing and improving my skills in Machine Learning and Data Science.  
+This repository is a collection of my daily work, experiments, and learnings as I progress toward becoming a professional ML Engineer.  
