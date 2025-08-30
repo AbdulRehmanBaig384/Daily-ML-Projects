@@ -47,3 +47,5 @@ Daily-ML-Projects/
 ├── placement.csv # Placement dataset
 ├── models.pk1 # Trained ML model file
 ├── README.md # Project documentation
+
+---
