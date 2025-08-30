@@ -40,3 +40,10 @@ As I progress, this repository will also include:
 ---
 
 ## 📂 Project Structure  
+Daily-ML-Projects/
+│
+├── Bivariant_Analysis.ipynb # EDA on Flights, Iris, Titanic datasets
+├── Placement_Predict_model.ipynb # ML model for placement dataset
+├── placement.csv # Placement dataset
+├── models.pk1 # Trained ML model file
+├── README.md # Project documentation
