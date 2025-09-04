@@ -50,7 +50,6 @@ Daily-ML-Projects/
 
 ---
 
----
 
 ## 🤖 About Me  
 I am currently practicing and improving my skills in Machine Learning and Data Science.  
