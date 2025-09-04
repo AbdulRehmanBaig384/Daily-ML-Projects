@@ -1,4 +1,4 @@
-# Daily-ML-Projects  
+<h1># Daily-ML-Projects</h1>  
 
 This repository is a **daily log of my Machine Learning practice**.  
 Every day, I work on small datasets to explore concepts of data preprocessing, Exploratory Data Analysis (EDA), feature engineering, model training, and evaluation.  
